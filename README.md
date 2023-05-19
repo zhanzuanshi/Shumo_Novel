@@ -1,16 +1,16 @@
-# shuomo_oval
-
-## Project setup
+# 书墨中文网
+# 项目数据来自网易云阅读
+## 下载项目依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
